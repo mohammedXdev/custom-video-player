@@ -22,35 +22,32 @@
   <li><strong>Package Manager:</strong> (Specify if you’re using npm, yarn, or another)</li>
 </ul>
 
-"Npm"
-
-## 📦 Installation
-
+📦 Installation
 Follow these steps to set up the project locally:
 
-1. **Clone the repository:**
-
-   ````bash
-   git clone https://github.com/mohammedXdev/custom-video-player
-
-   ## Navigate to the project directory:
-
-    ```bash
-    cd custom-video-player
-   ````
-
-   Install the dependencies:
+1. Clone the repository:
 
 ```bash
- npm install
+git clone https://github.com/mohammedXdev/custom-video-player
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd custom-video-player
+```
+
+3. Install the dependencies:
+
+```bash
+npm install
 ```
 
 🚀 Usage
 Start the development server:
 
 ```bash
-🚀 Usage
-Start the development server:
+npm start
 ```
 
 ✅ Testing
@@ -63,9 +60,12 @@ npm test
 ```
 
 📂 License
-MIT
-Feel free to contribute or report issues on the GitHub repository.
+Feel free to [contribute](https://github.com/mohammedXdev/custom-video-player/pulls) or [report issues](https://github.com/mohammedXdev/custom-video-player/issues) on the GitHub repository.
+
+Let me know if you'd like to add sections like Demo, Tech Stack, or Contribution Guidelines!
 
 ```bash
-Let me know if you'd like to add sections like **Features**, **Demo**, or **Tech Stack**!
+
+Let me know if you want this saved as a `.md` file or need a live demo badge added!
+
 ```
